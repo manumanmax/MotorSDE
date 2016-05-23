@@ -357,4 +357,5 @@
 			<resource resourceType="PROJECT" workspacePath="/Motor"/>
 		</configuration>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
 </cproject>
